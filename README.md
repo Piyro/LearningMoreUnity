@@ -7,3 +7,5 @@ https://github.com/zigurous/unity-flappy-bird-tutorial.
 
 ##İlk basit oyunum Flappy Bird.
 - Yukarıdaki GitHub link'indeki Asset'leri indirip, kendi bilgim ile oluşturmayı deneyeceğim.
+
+
