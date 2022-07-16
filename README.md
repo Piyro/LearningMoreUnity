@@ -1,6 +1,7 @@
 # LearningMoreUnity
-I am gonna start with basic games like pacman, flappy bird etc.
+Basit oyunlar ile başlayıp Unity bilgimi pekiştireceğim.
 
 #Flappy Bird
 https://github.com/zigurous/unity-flappy-bird-tutorial.
-At here i will download assets for the game.
+İlk basit oyunum Flappy Bird.
+Yukarıdaki GitHub link'indeki Asset'leri indirip, kendi bilgim ile oluşturmayı deneyeceğim.
